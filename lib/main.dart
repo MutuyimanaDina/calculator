@@ -122,6 +122,6 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
               child: Text(
                 displayValue,
                 style: TextStyle(fontSize: 40.0, fontWeight: FontWeight.bold),
-              ),
-            ),
+              ),,
+            ),,
           )])}
